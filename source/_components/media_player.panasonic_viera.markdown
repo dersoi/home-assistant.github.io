@@ -27,6 +27,7 @@ Currently known supported models:
 - TX-P50GT60E
 - TX-65EXW784
 - TX-32AS520E
+- TX-50AS650E
 
 If your model is not on the list then give it a test, if everything works correctly then add it to the list on [GitHub](https://github.com/home-assistant/home-assistant.io).
 
