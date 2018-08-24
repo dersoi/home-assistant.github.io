@@ -12,9 +12,9 @@ redirect_from: /cookbook/tor_configuration/
 
 This article guides your through the configuration of Tor to provide a secure access to your Home Assistant instance as an Onion site, through [Tor's Hidden Service](https://www.torproject.org/docs/hidden-services.html.en) feature, from remote. With this enabled, you do not need to open your firewall ports or setup HTTPS to enable secure remote access.
 
-This is useful if you want to have:
+This is useful if you:
 
- * Access your Home Assistant instance remotely without opening a firewall port or setting up a VPN.
+ * Want to have access your Home Assistant instance remotely without opening a firewall port or setting up a VPN.
  * Don't want to or know how to get an SSL/TLS certificate and HTTPS configuration setup.
  * Want to block attackers from even being able to access/scan your port and server at all.
  * Want to block anyone from knowing your home IP address and seeing your traffic to your Home Assistant.
